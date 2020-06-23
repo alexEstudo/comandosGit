@@ -25,13 +25,19 @@ Por padrão o editor é o vim / vi .
 #### Criando Repositório
 `mkdir nome_do_repositorio_desejado`
 
-#### Entrando na pasta do Repositório
+#### Entrando na pasta do Repositório / arquivo
 `cd nome_do_repositorio_escolhido`
 
-#### Saindo da pasta do Repositório
+#### Saindo da pasta do Repositório / arquivo
 `cd ..` 
 
-#### Listar todos os arquivos do repositório
+#### Inicializando repositório
+`git init`
+
+#### Entrando no arquivo .git/
+`cd .git/`
+
+#### Listar todos os arquivos do repositório / arquivo
 `dir nome_do_repositorio_escolhido`
 ou
 `ls` Porém para o ls funcionar, tem que estar dentro da pasta.
